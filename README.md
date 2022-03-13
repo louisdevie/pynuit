@@ -1,1 +1,1 @@
-# minuitpy
+# minuit.py
