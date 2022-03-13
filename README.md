@@ -1,1 +1,3 @@
-# minuit.py
+# pynuit
+
+Python bindings for minuit
