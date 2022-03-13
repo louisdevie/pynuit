@@ -7,6 +7,9 @@ edition = "2021"
 version = "^0.15.1"
 features = ["extension-module"]
 
+[dependencies.minuit]
+version = "^0.2.0"
+
 [lib]
-name = "minuit_py"
+name = "_minuit_py"
 crate-type = ["cdylib"]

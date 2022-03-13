@@ -18,5 +18,5 @@ setup(
     packages=["pynuit"],
     install_requires="setuptools-rust>=0.12.1",
     python_requires=">=3.8",
-    rust_extensions=[RustExtension("pynuit.minuit_py")],
+    rust_extensions=[RustExtension("pynuit._minuit_py")],
 )
